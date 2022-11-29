@@ -1,10 +1,13 @@
-### Hi there 👋
+# Tobias Brandy
+- 🔭 Currently looking for an awesome job
+- You can find many more projects I've worked on [here](https://github.com/orgs/pipo-co)
+
+### Contact
+- [Email](tobiasmbrandy@gmail.com)
+- [LinkedIn](linkedin.com/in/tobiasbrandy)
 
 <!--
-**tobiasbrandy/tobiasbrandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
