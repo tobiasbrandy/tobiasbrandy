@@ -1,8 +1,8 @@
 # Tobias Brandy
-- 🔭 Currently looking for an awesome job
-- You can find many more projects I've worked on [here](https://github.com/orgs/pipo-co)
+### 🔭 Currently looking for an awesome job
+### 💡️ You can find many more repositories of projects I've worked on in the [PiPo organization](https://github.com/orgs/pipo-co)
 
-### Contact
+## Contact
 - [Email](tobiasmbrandy@gmail.com)
 - [LinkedIn](linkedin.com/in/tobiasbrandy)
 
